@@ -1,5 +1,6 @@
 package com.dnc.springboot.learn.mycoolapp;
 
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
